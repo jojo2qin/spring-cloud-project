@@ -1,6 +1,8 @@
 info:
   profile: default
   from: git1
+  to:shanghai
+  liveIn:China
   
 test: bbb
 today:thursday
