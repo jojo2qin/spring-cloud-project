@@ -2,9 +2,6 @@ info:
   profile: default
   from: git1
   happy: girl
-  to: shanghai
-  to:shanghai 
+  to: shanghai 
   
-test: bbb
-today:thursday
-like:fruit
+test: bbb 
