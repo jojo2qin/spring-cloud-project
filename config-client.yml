@@ -1,7 +1,7 @@
 info:
-  profile: default
-  from: git1
-  happy: girl
+  profile: jojo
+  from: jojo
+  happy: hj
   to: shanghai 
   
 test: bbb 
